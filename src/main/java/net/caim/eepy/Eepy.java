@@ -12,6 +12,6 @@ public class Eepy implements ModInitializer {
 	@Override
 	public void onInitialize() {
 
-		LOGGER.info("Hello Fabric world!");
+		LOGGER.info("Initialize log");
 	}
 }
