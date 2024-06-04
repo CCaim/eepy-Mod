@@ -15,10 +15,7 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"net.caim.eepy.Eepy"
-		],
-		"client": [
-			"net.caim.eepy.EepyClient"
+			"net.caim.eepy.EepyMod"
 		]
 
 	},
